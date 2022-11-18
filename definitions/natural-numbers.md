@@ -1,5 +1,7 @@
-# Cardinality
-> A number that tells us how many "items" are in a set.
+# Natural numbers
+> SIMPLE DEFINITION
+
+- Numbers used for counting (cardinals) and ordering (ordinals).
 
 ## Example
 > If there are three elements in `List`... then `List` has a cardinality of 3.

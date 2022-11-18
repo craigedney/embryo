@@ -1,0 +1,9 @@
+# TERM
+> SIMPLE DEFINITION
+
+- MISC
+
+## Example
+> SIMPLE LOGIC
+
+- EXPLANATION
